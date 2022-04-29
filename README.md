@@ -1,2 +1,4 @@
-# 2d_cifar_minist
-### GPU evaluation for 2d cifar
+# 2D evaluation for Cifar and Minist
+# GPU evaluation for 2D Cifar
+
+
