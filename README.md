@@ -1,3 +1,3 @@
-# GPU evaluation for 2D Cifar and Minist
+# GPU evaluation for CIFAR and MNIST
 
 
