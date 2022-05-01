@@ -1,3 +1,3 @@
-# GPU Evaluation for CIFAR and MNIST
+# Evaluation for CIFAR and MNIST (GPU & CPU)
 
 
